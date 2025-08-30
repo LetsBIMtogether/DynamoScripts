@@ -1,0 +1,21 @@
+--Parameters (Project Info):
+
+-Text:
+MS_ Address 1
+MS_ Address 2
+MS_ Address 3	
+
+MS_ Lot & Block 1
+MS_ Lot & Block 2
+MS_ Lot & Block 3
+
+-Yes/No:
+MS_ Multi Site
+
+-Integer
+MS_ Site ID
+
+--Prefix for groups 
+_MS-1_
+_MS-2_
+_MS-3_
